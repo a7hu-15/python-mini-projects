@@ -11,6 +11,7 @@ Each project is self-contained, well-documented, and can be run independently.
 | 1 | [Password Strength Checker](password_checker/) | Analyze password strength with detailed feedback |
 | 2 | [Markdown to HTML Converter](md_to_html/) | Convert Markdown text to clean HTML |
 | 3 | [URL Shortener](url_shortener/) | CLI-based URL shortener using hashing |
+| 4 | [CLI Expense Tracker](expense_tracker/) | Track expenses with category summaries and JSON storage |
 
 ## 🚀 How to Run
 
@@ -20,6 +21,7 @@ Each project has its own directory. Navigate to any project and run:
 python password_checker/password_checker.py
 python md_to_html/md_to_html.py
 python url_shortener/url_shortener.py
+python expense_tracker/expense_tracker.py --cli
 ```
 
 ## 🤝 Contributing
