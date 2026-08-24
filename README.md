@@ -12,6 +12,8 @@ Each project is self-contained, well-documented, and can be run independently.
 | 2 | [Markdown to HTML Converter](md_to_html/) | Convert Markdown text to clean HTML |
 | 3 | [URL Shortener](url_shortener/) | CLI-based URL shortener using hashing |
 | 4 | [CLI Expense Tracker](expense_tracker/) | Track expenses with category summaries and JSON storage |
+| 5 | [CLI Task Manager](task_manager/) | Track tasks with priorities, due dates, and JSON storage |
+| 6 | [File Organizer & Renamer](file_organizer/) | Auto-sort directory files into subfolders and regex batch rename |
 
 ## 🚀 How to Run
 
@@ -22,6 +24,8 @@ python password_checker/password_checker.py
 python md_to_html/md_to_html.py
 python url_shortener/url_shortener.py
 python expense_tracker/expense_tracker.py --cli
+python task_manager/task_manager.py --cli
+python file_organizer/file_organizer.py --cli
 ```
 
 ## 🤝 Contributing
