@@ -14,6 +14,7 @@ Each project is self-contained, well-documented, and can be run independently.
 | 4 | [CLI Expense Tracker](expense_tracker/) | Track expenses with category summaries and JSON storage |
 | 5 | [CLI Task Manager](task_manager/) | Track tasks with priorities, due dates, and JSON storage |
 | 6 | [File Organizer & Renamer](file_organizer/) | Auto-sort directory files into subfolders and regex batch rename |
+| 7 | [Markdown Live Previewer](markdown_previewer/) | Parse and render Markdown documents to ANSI terminal text or HTML |
 
 ## 🚀 How to Run
 
