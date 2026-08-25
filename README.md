@@ -17,6 +17,7 @@ Each project is self-contained, well-documented, and can be run independently.
 | 7 | [Markdown Live Previewer](markdown_previewer/) | Parse and render Markdown documents to ANSI terminal text or HTML |
 | 8 | [CLI System Health Monitor](system_monitor/) | Fetch system hardware info, CPU architecture, and disk metrics |
 | 9 | [CLI Data Validator](data_validator/) | Validate JSON/CSV records against type rules and custom schemas |
+| 10 | [CLI Log File Analyzer](log_analyzer/) | Parse web access logs, calculate bandwidth metrics, and track error rates |
 
 ## 🚀 How to Run
 
