@@ -18,6 +18,7 @@ Each project is self-contained, well-documented, and can be run independently.
 | 8 | [CLI System Health Monitor](system_monitor/) | Fetch system hardware info, CPU architecture, and disk metrics |
 | 9 | [CLI Data Validator](data_validator/) | Validate JSON/CSV records against type rules and custom schemas |
 | 10 | [CLI Log File Analyzer](log_analyzer/) | Parse web access logs, calculate bandwidth metrics, and track error rates |
+| 11 | [CLI Markdown Table Generator](markdown_table_generator/) | Convert CSV/JSON data to formatted Markdown tables with sorting and filtering |
 
 ## 🚀 How to Run
 
