@@ -20,6 +20,7 @@ Each project is self-contained, well-documented, and can be run independently.
 | 10 | [CLI Log File Analyzer](log_analyzer/) | Parse web access logs, calculate bandwidth metrics, and track error rates |
 | 11 | [CLI Markdown Table Generator](markdown_table_generator/) | Convert CSV/JSON data to formatted Markdown tables with sorting and filtering |
 | 12 | [CLI Code Metrics & LOC Counter](code_metrics_counter/) | Analyze lines of code, comments, and blank lines across project directories |
+| 13 | [CLI Config Merger & Diff Tool](config_merger/) | Recursive JSON config merger with env var substitution & structural diffing |
 
 ## 🚀 How to Run
 
