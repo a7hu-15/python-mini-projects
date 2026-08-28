@@ -21,6 +21,9 @@ Each project is self-contained, well-documented, and can be run independently.
 | 11 | [CLI Markdown Table Generator](markdown_table_generator/) | Convert CSV/JSON data to formatted Markdown tables with sorting and filtering |
 | 12 | [CLI Code Metrics & LOC Counter](code_metrics_counter/) | Analyze lines of code, comments, and blank lines across project directories |
 | 13 | [CLI Config Merger & Diff Tool](config_merger/) | Recursive JSON config merger with env var substitution & structural diffing |
+| 14 | [CLI JSON/XML Converter & Formatter](json_converter/) | Multi-format data structure converter for JSON and XML |
+| 15 | [CLI File Hash Generator & Duplicate Finder](file_hash_dedupe/) | Compute MD5/SHA256 checksums and scan directory trees for duplicates |
+| 16 | [CLI Environment Variables (.env) Linter](env_linter/) | Validate .env syntax, missing variables, and hardcoded secret leaks |
 
 ## 🚀 How to Run
 
