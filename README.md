@@ -24,6 +24,8 @@ Each project is self-contained, well-documented, and can be run independently.
 | 14 | [CLI JSON/XML Converter & Formatter](json_converter/) | Multi-format data structure converter for JSON and XML |
 | 15 | [CLI File Hash Generator & Duplicate Finder](file_hash_dedupe/) | Compute MD5/SHA256 checksums and scan directory trees for duplicates |
 | 16 | [CLI Environment Variables (.env) Linter](env_linter/) | Validate .env syntax, missing variables, and hardcoded secret leaks |
+| 17 | [CLI Rate Limiter & Token Bucket Utility](rate_limiter/) | Thread-safe Token Bucket & Leaky Bucket rate limiter with function decorators |
+| 18 | [CLI Git History & Contributor Analyzer](git_analyzer/) | Compute commit volume, code churn, author statistics, and Markdown reports |
 
 ## 🚀 How to Run
 
