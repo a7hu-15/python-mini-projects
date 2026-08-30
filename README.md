@@ -28,6 +28,8 @@ Each project is self-contained, well-documented, and can be run independently.
 | 18 | [CLI Git History & Contributor Analyzer](git_analyzer/) | Compute commit volume, code churn, author statistics, and Markdown reports |
 | 19 | [CLI Concurrent API Benchmarker](api_benchmarker/) | Multithreaded HTTP API load tester with latency percentiles (p50, p95, p99) and RPS |
 | 20 | [CLI SQL Schema & Query Static Linter](sql_linter/) | Static analysis for SQL queries detecting SELECT *, missing WHERE, and index anti-patterns |
+| 21 | [CLI Cron Expression Parser](cron_parser/) | Parse 5-part cron syntax, validate fields, and calculate upcoming execution schedules |
+| 22 | [CLI JWT Inspector & Claims Decoder](jwt_inspector/) | Zero-dependency JSON Web Token decoder with claim validity inspection and warnings |
 
 ## 🚀 How to Run
 
