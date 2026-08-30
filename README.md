@@ -26,6 +26,8 @@ Each project is self-contained, well-documented, and can be run independently.
 | 16 | [CLI Environment Variables (.env) Linter](env_linter/) | Validate .env syntax, missing variables, and hardcoded secret leaks |
 | 17 | [CLI Rate Limiter & Token Bucket Utility](rate_limiter/) | Thread-safe Token Bucket & Leaky Bucket rate limiter with function decorators |
 | 18 | [CLI Git History & Contributor Analyzer](git_analyzer/) | Compute commit volume, code churn, author statistics, and Markdown reports |
+| 19 | [CLI Concurrent API Benchmarker](api_benchmarker/) | Multithreaded HTTP API load tester with latency percentiles (p50, p95, p99) and RPS |
+| 20 | [CLI SQL Schema & Query Static Linter](sql_linter/) | Static analysis for SQL queries detecting SELECT *, missing WHERE, and index anti-patterns |
 
 ## 🚀 How to Run
 
