@@ -30,6 +30,7 @@ Each project is self-contained, well-documented, and can be run independently.
 | 20 | [CLI SQL Schema & Query Static Linter](sql_linter/) | Static analysis for SQL queries detecting SELECT *, missing WHERE, and index anti-patterns |
 | 21 | [CLI Cron Expression Parser](cron_parser/) | Parse 5-part cron syntax, validate fields, and calculate upcoming execution schedules |
 | 22 | [CLI JWT Inspector & Claims Decoder](jwt_inspector/) | Zero-dependency JSON Web Token decoder with claim validity inspection and warnings |
+| 23 | [CLI Markdown Link & Anchor Checker](markdown_link_checker/) | Validate relative file paths, media links, and heading anchors (#anchor) in Markdown docs |
 
 ## 🚀 How to Run
 
