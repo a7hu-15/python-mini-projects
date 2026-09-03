@@ -32,6 +32,7 @@ Each project is self-contained, well-documented, and can be run independently.
 | 22 | [CLI JWT Inspector & Claims Decoder](jwt_inspector/) | Zero-dependency JSON Web Token decoder with claim validity inspection and warnings |
 | 23 | [CLI Markdown Link & Anchor Checker](markdown_link_checker/) | Validate relative file paths, media links, and heading anchors (#anchor) in Markdown docs |
 | 24 | [CLI Secret & Sensitive Data Scanner](secret_scanner/) | Scan codebases and configs for leaked API keys, credentials, tokens, and private keys |
+| 25 | [CLI HTTP Security Header Analyzer](http_header_analyzer/) | Audit HTTP response security headers against OWASP standards and calculate security grades |
 
 ## 🚀 How to Run
 
