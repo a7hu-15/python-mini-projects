@@ -34,6 +34,7 @@ Each project is self-contained, well-documented, and can be run independently.
 | 24 | [CLI Secret & Sensitive Data Scanner](secret_scanner/) | Scan codebases and configs for leaked API keys, credentials, tokens, and private keys |
 | 25 | [CLI HTTP Security Header Analyzer](http_header_analyzer/) | Audit HTTP response security headers against OWASP standards and calculate security grades |
 | 26 | [CLI Log Anonymizer & PII Masker](log_anonymizer/) | Detect and redact emails, IP addresses, credit cards, SSNs, JWTs, and API keys from logs |
+| 27 | [CLI SSL/TLS Certificate Inspector](ssl_cert_inspector/) | Inspect domain SSL/TLS certificates, verify validity windows, and alert on impending expiration |
 
 ## 🚀 How to Run
 
