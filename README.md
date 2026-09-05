@@ -36,6 +36,7 @@ Each project is self-contained, well-documented, and can be run independently.
 | 26 | [CLI Log Anonymizer & PII Masker](log_anonymizer/) | Detect and redact emails, IP addresses, credit cards, SSNs, JWTs, and API keys from logs |
 | 27 | [CLI SSL/TLS Certificate Inspector](ssl_cert_inspector/) | Inspect domain SSL/TLS certificates, verify validity windows, and alert on impending expiration |
 | 28 | [CLI Git Commit Message Linter](git_commit_linter/) | Validate commit messages against Conventional Commits specs and integrate with Git hooks |
+| 29 | [CLI Dockerfile Linter & Security Auditor](dockerfile_linter/) | Audit Dockerfiles for unpinned tags, missing USER instructions, layer anti-patterns & secrets |
 
 ## 🚀 How to Run
 
