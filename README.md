@@ -39,6 +39,7 @@ Each project is self-contained, well-documented, and can be run independently.
 | 29 | [CLI Dockerfile Linter & Security Auditor](dockerfile_linter/) | Audit Dockerfiles for unpinned tags, missing USER instructions, layer anti-patterns & secrets |
 | 30 | [CLI OpenAPI / Swagger Schema Linter](openapi_linter/) | Parse and audit OpenAPI 3.0/3.1 JSON specs for parameter consistency, metadata, and security |
 | 31 | [CLI Shell Script Linter & Security Auditor](shell_linter/) | Audit Bash and Shell scripts for missing safety flags, hazardous rm -rf, eval, and secret leaks |
+| 32 | [CLI Dependency & License Compliance Auditor](dependency_auditor/) | Audit requirements.txt and package.json for unpinned versions, insecure URLs, and AGPL licenses |
 
 ## 🚀 How to Run
 
