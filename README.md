@@ -38,6 +38,7 @@ Each project is self-contained, well-documented, and can be run independently.
 | 28 | [CLI Git Commit Message Linter](git_commit_linter/) | Validate commit messages against Conventional Commits specs and integrate with Git hooks |
 | 29 | [CLI Dockerfile Linter & Security Auditor](dockerfile_linter/) | Audit Dockerfiles for unpinned tags, missing USER instructions, layer anti-patterns & secrets |
 | 30 | [CLI OpenAPI / Swagger Schema Linter](openapi_linter/) | Parse and audit OpenAPI 3.0/3.1 JSON specs for parameter consistency, metadata, and security |
+| 31 | [CLI Shell Script Linter & Security Auditor](shell_linter/) | Audit Bash and Shell scripts for missing safety flags, hazardous rm -rf, eval, and secret leaks |
 
 ## 🚀 How to Run
 
