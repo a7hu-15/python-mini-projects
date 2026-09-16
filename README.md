@@ -42,6 +42,7 @@ Each project is self-contained, well-documented, and can be run independently.
 | 32 | [CLI Dependency & License Compliance Auditor](dependency_auditor/) | Audit requirements.txt and package.json for unpinned versions, insecure URLs, and AGPL licenses |
 | 33 | [CLI YAML & Environment Configuration Validator](yaml_env_validator/) | Audit .env and YAML configs for syntax errors, secret leaks, missing mandatory fields, and formatting rules |
 | 34 | [CLI Kubernetes Manifest Linter & Security Auditor](k8s_manifest_linter/) | Audit Kubernetes YAML manifests for privileged containers, unpinned tags, missing resource limits & health probes |
+| 35 | [CLI Terraform HCL Security & Best Practices Auditor](terraform_linter/) | Audit Terraform .tf files for open 0.0.0.0/0 ingress rules, unencrypted S3 buckets, hardcoded keys, & missing tags |
 
 ## 🚀 How to Run
 
