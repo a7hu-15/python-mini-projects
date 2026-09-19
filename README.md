@@ -43,6 +43,9 @@ Each project is self-contained, well-documented, and can be run independently.
 | 33 | [CLI YAML & Environment Configuration Validator](yaml_env_validator/) | Audit .env and YAML configs for syntax errors, secret leaks, missing mandatory fields, and formatting rules |
 | 34 | [CLI Kubernetes Manifest Linter & Security Auditor](k8s_manifest_linter/) | Audit Kubernetes YAML manifests for privileged containers, unpinned tags, missing resource limits & health probes |
 | 35 | [CLI Terraform HCL Security & Best Practices Auditor](terraform_linter/) | Audit Terraform .tf files for open 0.0.0.0/0 ingress rules, unencrypted S3 buckets, hardcoded keys, & missing tags |
+| 36 | [CLI Nginx & Web Server Security Linter](nginx_linter/) | Audit Nginx .conf files for information disclosure, weak TLS protocols, missing headers, & directory traversal |
+| 37 | [CLI Python Code Smell & Maintainability Detector](code_smell_detector/) | AST static analysis to detect long functions, excessive parameters, wildcard imports, & bare except clauses |
+| 38 | [CLI Network Service Port & Health Monitor](port_health_checker/) | Audit TCP ports & HTTP endpoints for availability, connection latency, and HTTP status health |
 
 ## 🚀 How to Run
 
